@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4738
+
+Plugin to sort python imports using the isort lib.
+
+Usage:
+Just call the :Isort command, and it will reorder the imports of the current python file.
+You can also configure isort options, check them on the isort docs.
+
+Official repo:
+https://github.com/fisadev/vim-isort
